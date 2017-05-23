@@ -1,0 +1,18 @@
+# Sass
+ - pattern: ^css/main\.scss$
+   commands:
+   - sass \0 | cssnano > css/main.min.css
+
+# TypeScript
+ - pattern: ^[^\#\.]*\.ts$
+   commands:
+   - tsc -p js/
+   - uglifyjs js/main.js > js/main.min.js
+
+# dhall config and posts
+ - patterns:
+   - ^posts/[^\#\.]*$
+   - ^config.dhall$
+   commands:
+   - stack exec blog
+   - tree blog/
