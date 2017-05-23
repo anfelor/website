@@ -13,4 +13,5 @@
 , https = True
 , author = "Anton Felix Lorenzen"
 , siteName = "Anton Lorenzen's blog"
+, folder = "../anfelor.github.io/blog"
 }
