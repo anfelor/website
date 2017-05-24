@@ -1,2 +1,3 @@
-let Haskell =  < Haskell = {=} | Blogging : {} | ReadingList : {} | ShortStories : {} >
-in Haskell
+{ keywordTitle = "Haskell"
+, keywordDescription = "Haskell is a functional programming language; I try to explain it's concepts."
+}

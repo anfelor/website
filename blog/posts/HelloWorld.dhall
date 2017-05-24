@@ -2,7 +2,6 @@
 , entryCreated = {year= +2017,month= +04,day= +26}
 , entryUpdated = {year= +2017,month= +04,day= +26}
 , entryKeywords = [ ../keywords/Blogging ]
-, entryLanguage = < English = {=} | German : {} >
 , entryComments = < Github = {=} | Reddit : { _redditUrl : Text } >
 , entryImportance = < Normal = {=} | Ignore : {} | Promote : {} >
 , entryAbstract = ''
