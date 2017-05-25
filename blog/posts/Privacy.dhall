@@ -1,6 +1,5 @@
 { entryTitle = "Datenschutz"
 , entryCreated = {year= +2017,month= +05,day= +04}
-, entryUpdated = {year= +2017,month= +05,day= +04}
 , entryKeywords = [ ../keywords/Blogging ]
 , entryComments = < Github = {=} | Reddit : { _redditUrl : Text } >
 , entryImportance = < Ignore = {=} | Normal : {} | Promote : {} >
